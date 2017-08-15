@@ -1,0 +1,26 @@
+.customDiv {
+	margin: 20px;
+	font-size: 24px;
+	padding: 10px;
+	width: 50%;
+}
+
+.backgroundClass {
+	background-color:lightblue;
+}
+
+.borderClass {
+	border:5px solid blue;
+}
+
+.listColor {
+	color: blue
+}
+
+.paragraphColor {
+	color: green;
+}
+
+.goldChallenge {
+
+}
