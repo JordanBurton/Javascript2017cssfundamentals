@@ -1,0 +1,16 @@
+body {
+	background-color:#e5e5e5; /*Changes the background color in a Hexadecimal format*/
+}
+
+.div-1 {
+	margin: 20px
+}
+
+.b {
+	color: blue
+}
+
+.smaller-image {
+	width: 300px;
+	height: auto;
+}
