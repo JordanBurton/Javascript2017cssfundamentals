@@ -1,0 +1,159 @@
+.wrapper{
+	margin: 5px
+}
+
+.body {
+	width: 150px;
+	height: 250px;
+	border: solid 10px black;
+	background-color: brown;
+	border-radius: 10px 10px 100px 100px;
+	position:relative;
+	left:50px;
+	top:50px;
+}
+
+.eye1 {
+	width: 12px;
+	height: 20px;
+	border: solid 2px black;
+	background-color: black;
+	border-radius: 2px;
+	position:relative;
+	left:80px;
+	top:-150px;
+}
+
+.eye2 {
+	width: 12px;
+	height: 20px;
+	border: solid 2px black;
+	background-color: black;
+	border-radius: 2px;
+	position:relative;
+	left:150px;
+	top:-174px;
+}
+
+.mouth {
+	width: 50px;
+	height: 50px;
+	border: solid 2px black;
+	background-color: black;
+	border-radius: 50px 50px 50px 50px;
+	position:relative;
+	left:6.5em;
+	top:-8.8em;
+}
+
+.mouth-cover {
+	width: 70px;
+	height: 50px;
+	border: solid 0px black;
+	background-color: brown;
+	border-radius: 150px 150px 50px 50px;
+	position:relative;
+	left:6.5em;
+	top:-11.5em;
+	transform: rotate(-15deg);
+}
+
+.left-brow{
+	width: 30px;
+	height: 20px;
+	border: solid 0px black;
+	border-radius: 0px;
+	margin: 16px;
+	position: relative;
+	top: -20.7em;
+	left: 3.9em;
+	background-color:black;
+	transform: rotate(20deg);
+	}
+
+.left-brow-cover{
+	width: 50px;
+	height: 20px;
+	border: solid 0px black;
+	border-radius: 0px;
+	margin: 16px;
+	position: relative;
+	top: -23.3em;
+	left: 3.6em;
+	background-color:brown;
+	transform: rotate(50deg);
+	}
+
+.right-brow{
+	width: 30px;
+	height: 20px;
+	border: solid 0px black;
+	border-radius: 0px;
+	margin: 16px;
+	position: relative;
+	top: -25em;
+	left: 8em;
+	background-color:black;
+	transform: rotate(-20deg);
+	}
+
+.right-brow-cover{
+	width: 50px;
+	height: 20px;
+	border: solid 0px black;
+	border-radius: 0px;
+	margin: 16px;
+	position: relative;
+	top: -27.7em;
+	left: 7.2em;
+	background-color:brown;
+	transform: rotate(-43deg);
+	}
+
+.right-arm {
+	width: 70px;
+	height: 70px;
+	border: solid 8px black;
+	border-radius: 50px 50px 50px 50px;
+	margin: 16px;
+	position: relative;
+	top: -25em;
+	left: 8em;
+	background-color:brown;
+}
+
+.left-arm {
+	width: 70px;
+	height: 70px;
+	border: solid 8px black;
+	border-radius: 50px 50px 50px 50px;
+	margin: 16px;
+	position: relative;
+	top: 17.8em;
+	left: -1em;
+	background-color:brown;
+}
+
+.left-foot {
+	width: 70px;
+	height: 40px;
+	border: solid 8px black;
+	border-radius: 150px 0px 0px 50px;
+	margin: 16px;
+	position: relative;
+	top: -15em;
+	left: 5em;
+	background-color:brown;
+}
+
+/*	Use for eyebrows
+
+	width: 150px;
+	height: 250px;
+	border: solid 2px black;
+	background-color: brown;
+	border-radius: 150px 10px 150px 10px;
+	position:relative;
+	left:50px;
+	top:50px;
+	transform: rotate(120deg);*/
